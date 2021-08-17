@@ -1,4 +1,4 @@
-# diamond_app
+# Diamond App
 
 A basic Flutter application.
 
